@@ -7,15 +7,13 @@
 [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js) ](https://skills.thijs.gg)
 ##
 
-<h1 align="center">
+<a href="https://github.com/gyselle-marques/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gyselle-marques&theme=radical" />
+</a>
+<a href="https://github.com/gyselle-marques/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyselle-marques&layout=compact&theme=radical&langs_count=8&card_width=320" />
+</a>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyselle-marques&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyselle-marques&layout=compact&theme=radical)
-
-
-</h1>
 <!--
 **gyselle-marques/gyselle-marques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
