@@ -1,11 +1,11 @@
-### Yo, I'm Gyselle! 👋
-##
+## Yo, I'm Gyselle! 👋
 
-:open_book: Analysis and Systems Development!
+:books:	Studying Analysis and Systems Development!
 
-<!-- ## :computer: Technologies & Tools -->
+### :computer: Technologies & Tools
 
 [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js) ](https://skills.thijs.gg)
+##
 
 <h1 align="center">
 
@@ -13,6 +13,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyselle-marques&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyselle-marques&layout=compact&theme=radical)
+
 
 </h1>
 <!--
