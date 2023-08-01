@@ -8,10 +8,10 @@
 ##
 
 <a href="https://github.com/gyselle-marques/github-readme-stats">
-  <img height=175em width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=gyselle-marques&show_icons=true&theme=tokyonight" />
+  <img height=200em width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=gyselle-marques&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/gyselle-marques/convoychat">
-  <img height=175em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyselle-marques&layout=compact&theme=tokyonight&langs_count=8&card_width=45%" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyselle-marques&layout=compact&theme=tokyonight&langs_count=8&card_width=45%" />
 </a>
 
 <!--
