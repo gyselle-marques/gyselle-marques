@@ -1,10 +1,8 @@
 ## Yo, I'm Gyselle! 👋
 ![gojo-satoru-jujutsu-kaisen](https://github.com/gyselle-marques/gyselle-marques/assets/119114313/52146d86-d053-47d5-b2fa-0467844af6f8)
 
-
-
 :books:	Studying Analysis and Systems Development!
-##
+
 
 ### :computer: Technologies
 [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js,c) ](https://skills.thijs.gg)
