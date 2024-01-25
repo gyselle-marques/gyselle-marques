@@ -1,12 +1,10 @@
-<div  align="center">
+<div align="center">
 
 ![name](https://github.com/gyselle-marques/gyselle-marques/assets/119114313/8e93acd1-bc81-4c34-9450-3a8279b2f94d)
 
 ![fN3n4zn](https://github.com/gyselle-marques/gyselle-marques/assets/119114313/8e7a263c-b146-4e2c-ab86-7cbf59d6d378)
 
 <h4>:books:	Studying Analysis and Systems Development! </h4>
-
-
 
 ##
 
@@ -19,6 +17,7 @@
 
 ##
 
+<div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180em width=48% align="center" src="https://github-readme-stats.vercel.app/api?username=gyselle-marques&show_icons=true&theme=github_dark&rank_icon=github" />
@@ -27,6 +26,7 @@
   <img height=180em width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyselle-marques&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
 </a>
 
+</div>
 
 <!--
 
