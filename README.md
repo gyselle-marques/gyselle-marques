@@ -1,24 +1,43 @@
-## Yo, I'm Gyselle! 👋
-![gojo-satoru-jujutsu-kaisen](https://github.com/gyselle-marques/gyselle-marques/assets/119114313/52146d86-d053-47d5-b2fa-0467844af6f8)
+<div  align="center">
 
-:books:	Studying Analysis and Systems Development!
+![name](https://github.com/gyselle-marques/gyselle-marques/assets/119114313/8e93acd1-bc81-4c34-9450-3a8279b2f94d)
+
+![fN3n4zn](https://github.com/gyselle-marques/gyselle-marques/assets/119114313/8e7a263c-b146-4e2c-ab86-7cbf59d6d378)
+
+<h4>:books:	Studying Analysis and Systems Development! </h4>
 
 
-### :computer: Technologies
-[![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js,c) ](https://skills.thijs.gg)
+
 ##
 
-<div align="center">
+<h3>🛠️Technologies & Tools</h3> 
 
-<a href="https://github.com/gyselle-marques/github-readme-stats">
-  <img height=170em width=48% align="center" src="https://github-readme-stats.vercel.app/api?username=gyselle-marques&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/gyselle-marques/convoychat">
-  <img height=170em width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyselle-marques&layout=compact&theme=tokyonight&langs_count=8&card_width=48%" />
-</a>
+[![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js,ts,c,react,git,vscode) ](https://skills.thijs.gg)
+
 
 </div>
+
+##
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=180em width=48% align="center" src="https://github-readme-stats.vercel.app/api?username=gyselle-marques&show_icons=true&theme=github_dark&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=180em width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyselle-marques&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
+</a>
+
+
 <!--
+
+<a href="https://github.com/gyselle-marques/SolucoesAmbientais">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gyselle-marques&repo=SolucoesAmbientais&theme=github_dark" />
+</a>
+<a href="https://github.com/gyselle-marques/CriptografiaXOR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gyselle-marques&repo=CriptografiaXOR&theme=github_dark" />
+</a>
+
+
 
 // & Tools
 
