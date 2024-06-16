@@ -6,18 +6,20 @@
 
 <h4>:books:	Studying Analysis and Systems Development! </h4>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyselle-marques/)
+
+
+<h3>🛠️Technologies & Tools 🛠️</h3> 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cs,java,react,git,vscode" />
+  </a>
+</p>
+
+
 ##
 
-<h3>🛠️Technologies & Tools</h3> 
-
-[![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js,ts,c,react,git,vscode) ](https://skills.thijs.gg)
-
-
-</div>
-
-##
-
-<div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180em width=48% align="center" src="https://github-readme-stats.vercel.app/api?username=gyselle-marques&show_icons=true&theme=github_dark&rank_icon=github" />
@@ -37,20 +39,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gyselle-marques&repo=CriptografiaXOR&theme=github_dark" />
 </a>
 
-
-
-// & Tools
-
-**gyselle-marques/gyselle-marques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
