@@ -4,7 +4,7 @@
 
 ![fN3n4zn](https://github.com/gyselle-marques/gyselle-marques/assets/119114313/8e7a263c-b146-4e2c-ab86-7cbf59d6d378)
 
-<h4>:books:	Studying Analysis and Systems Development! </h4>
+<h4>:computer: Analysis and Systems Development :computer:</h4>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyselle-marques/)
 
@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cs,java,react,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,ts,c,cs,java,html,css,react,dotnet,fastapi,git,bash,vscode" />
   </a>
 </p>
 
