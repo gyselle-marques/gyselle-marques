@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,c,cs,java,html,css,react,dotnet,fastapi,git,bash,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,ts,c,cs,java,py,html,css,react,dotnet,fastapi,git,bash" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
   <img height=180em width=48% align="center" src="https://github-readme-stats.vercel.app/api?username=gyselle-marques&show_icons=true&theme=github_dark&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180em width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyselle-marques&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyselle-marques&layout=compact&langs_count=20&hide=jupyter%20notebook,procfile&theme=github_dark" />
 </a>
 
 </div>
