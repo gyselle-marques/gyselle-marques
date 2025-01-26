@@ -22,10 +22,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180em width=48% align="center" src="https://github-readme-stats.vercel.app/api?username=gyselle-marques&show_icons=true&theme=github_dark&rank_icon=github" />
+  <img height=170em width=48% align="center" src="https://github-readme-stats.vercel.app/api?username=gyselle-marques&show_icons=true&theme=github_dark&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyselle-marques&layout=compact&langs_count=20&hide=jupyter%20notebook,procfile&theme=github_dark" />
+  <img height=220em width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gyselle-marques&layout=compact&langs_count=20&hide=jupyter%20notebook,procfile&theme=github_dark" />
 </a>
 
 </div>
